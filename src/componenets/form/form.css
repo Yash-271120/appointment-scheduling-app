@@ -1,0 +1,12 @@
+button {
+  padding: 10px;
+}
+
+form {
+  text-align: left;
+}
+
+.btn-space {
+  display: flex;
+  justify-content: space-between;
+}
